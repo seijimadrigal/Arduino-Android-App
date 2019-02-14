@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ble Service</string>
+    <string name="button_name">Send</string>
+    <string name="nextBtn">NEXT</string>
+    <string name="playBtn"> PLAY / PAUSE</string>
+    <string name="previousBtn">PREVIOUS</string>
+
+
+</resources>
